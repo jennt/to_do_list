@@ -1,0 +1,22 @@
+body {
+  background-image: url("pics/yellow_umbrella.jpg");
+  background-size: cover;
+}
+#start {
+  color: blue;
+  border: solid 5px black;
+}
+
+h1{
+  text-align: center;
+}
+
+#add {
+  color: blue;
+  border: solid 5px black;
+  margin-top: 10em;
+}
+
+#add_btn{
+  margin-bottom: 36px;
+}
